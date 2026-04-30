@@ -11,6 +11,8 @@ def index():
         "<html>"
         "<body style='padding: 10px;'>"
         "<h1>Welcome to my Flask API</h1>"
+        "<h3>I hope you will find it interesting</h3>"
+         "<p>Try using PostMan to make some inference</p>"
         "</body>"
         "</html>"
     )
